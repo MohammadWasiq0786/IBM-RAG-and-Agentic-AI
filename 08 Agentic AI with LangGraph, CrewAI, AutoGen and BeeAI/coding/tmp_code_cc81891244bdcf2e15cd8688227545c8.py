@@ -1,0 +1,1 @@
+   plt.show()  # This will display the plot in the interactive window
