@@ -1,0 +1,8 @@
+# installing necessary pacakges in my_env
+python3.11 -m pip install \
+gradio==4.44.0 \
+pydantic==2.10.6 \
+ibm-watsonx-ai==1.1.2 \
+langchain==0.2.11 \
+langchain-community==0.2.10 \
+langchain-ibm==0.1.11
