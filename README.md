@@ -1,4 +1,4 @@
-# IBM RAG and Agentic AI
+# [IBM RAG and Agentic AI](https://coursera.org/share/4effc27a3d05936547fee0b86bd2e707)
 
 ## Architecture
 
